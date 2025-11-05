@@ -27,8 +27,8 @@
     src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img alt = "shellscript" align="center" 
     src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-    <img alt = "angular" align="center" 
-    src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+    <img alt = "react" align="center" 
+    src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=react&logoColor=white">
     <img alt = "bootstrap" align="center" 
     src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img alt = "spring" align="center" 
